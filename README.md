@@ -1,92 +1,89 @@
 # Hi, I'm Gil Recto 👋
 
-**Senior Shopify Developer | Frontend Engineer | eCommerce Specialist**
+### Senior Shopify Developer | Frontend Engineer | eCommerce Specialist
 
-I’m a Shopify-focused frontend developer with 6+ years of experience building and customizing high-performance eCommerce storefronts. I specialize in **Shopify theme development, advanced promotional logic, and modern JavaScript architecture** using Web Components.
-
-My work focuses on building scalable storefront features, improving conversion-focused user experiences, and delivering maintainable code for growing eCommerce brands.
+I specialize in building **high-performance Shopify storefronts** with modern frontend architecture.  
+My focus is creating **scalable Shopify themes, advanced promotional logic, and reusable JavaScript components** that improve user experience and conversion.
 
 ---
 
 ## ⚡ Tech Stack
 
-**Shopify Development**
-- Shopify Liquid
-- Shopify CLI
-- Shopify Cart API
-- Theme Development
-- Custom Promotional Logic
-
-**Frontend Development**
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Web Components
-
-**Tools**
-- Git / GitHub
-- Modern Frontend Workflow
-- Responsive & Performance Optimization
+![Shopify](https://img.shields.io/badge/Shopify-Theme_Development-7AB55C?style=for-the-badge&logo=shopify)
+![Liquid](https://img.shields.io/badge/Liquid-Shopify_Template-000000?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-Utility_Framework-38B2AC?style=for-the-badge&logo=tailwindcss)
+![Web Components](https://img.shields.io/badge/Web_Components-Custom_Elements-blue?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge&logo=git)
 
 ---
 
 ## 🚀 Featured Shopify Projects
 
 ### Shopify Promotion Engine
-A custom promotional system built for Shopify storefronts supporting dynamic cart conditions and automated gift product logic.
+Custom promotional logic system built using **JavaScript and Shopify Cart API**.
 
-**Features**
+Features:
 - Buy X Get Y promotions
-- Free gift when cart threshold is reached
+- Cart value promotions
+- Automatic gift product
 - Dynamic cart validation
-- Automatic gift removal when conditions fail
 
 ---
 
 ### Shopify Store Locator
-Reusable storefront component integrating Google Maps API with Shopify metaobjects.
+Reusable storefront component using **Google Maps API and Shopify metaobjects**.
 
-**Features**
-- Interactive map with custom markers
-- Location search and filtering
+Features:
+- Map with custom markers
+- Store search
 - Map + list layout
-- Optimized map loading performance
+- Optimized performance
 
 ---
 
 ### Advanced Product Media Viewer
-Enhanced product gallery experience built with modern JavaScript and Swiper.js.
+Enhanced product image experience using **JavaScript and Swiper.js**.
 
-**Features**
+Features:
 - Image zoom
 - Drag to pan when zoomed
-- Mobile pinch-to-zoom
-- Smooth animations and improved mobile UX
+- Mobile pinch zoom
+- Smooth animation
 
 ---
 
-## 📈 What I Focus On
+## 📈 GitHub Stats
 
-- Building scalable **Shopify theme architecture**
-- Implementing **complex promotional logic**
-- Creating reusable **JavaScript storefront components**
-- Optimizing **storefront performance and UX**
-- Supporting **high-impact marketing campaigns**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilrecto&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilrecto&layout=compact&theme=tokyonight)
+
+---
+
+## 🔧 What I Focus On
+
+- Shopify Theme Development
+- Advanced Promotional Logic
+- Custom Storefront Components
+- Performance Optimization
+- eCommerce UX Improvements
 
 ---
 
 ## 🌐 Connect With Me
 
 LinkedIn  
-https://linkedin.com/in/your-linkedin
-
+[https://linkedin.com/in/YOUR_LINKEDIN
+](https://www.linkedin.com/in/gil-recto-jr-1663a3158/)
 GitHub  
-https://github.com/your-github
+[https://github.com/YOUR_USERNAME](https://github.com/gilrecto/gilrecto/)
 
 Email  
 gil.rectojr@gmail.com
 
 ---
 
-💡 *Currently working on building advanced Shopify storefront features and exploring modern eCommerce engineering workflows.*
+⭐ Always building better Shopify experiences and improving eCommerce storefront performance.
