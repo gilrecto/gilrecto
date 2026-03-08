@@ -76,10 +76,10 @@ Features:
 ## 🌐 Connect With Me
 
 LinkedIn  
-[https://linkedin.com/in/YOUR_LINKEDIN
-](https://www.linkedin.com/in/gil-recto-jr-1663a3158/)
+[gilrectojr](https://www.linkedin.com/in/gil-recto-jr-1663a3158/)
+
 GitHub  
-[https://github.com/YOUR_USERNAME](https://github.com/gilrecto/gilrecto/)
+[gilrecto](https://github.com/gilrecto/gilrecto/)
 
 Email  
 gil.rectojr@gmail.com
